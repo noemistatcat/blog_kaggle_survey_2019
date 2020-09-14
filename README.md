@@ -30,6 +30,6 @@ For a quick glance at all the questions included in the survey, this file is use
 The whole article can be found through a Medium post publicly available through [this link](https://medium.com/@noemiramiro/how-to-win-in-the-data-science-world-fdb0bd9b4ce7?source=friends_link&sk=b38fc9052e192db75fac94d2d00a0346) 
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-I'm grateful to Udacity for enabling me to write my first blog post. Thanks also to Kaggle for being an awesome source of free datasets. Lastly, big thanks to my fiancé Paul Tang for proofreading my article and providing valuable inputs.
+I'm grateful to Udacity for enabling me to write my first blog post. Thanks also to Kaggle for being an awesome source of free datasets. Lastly, big thanks to my fiancé for proofreading my article and providing valuable inputs.
 
 
