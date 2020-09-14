@@ -11,7 +11,8 @@ All the analysis and visualizations do not require any special installation. All
 
 ## Project Motivation <a name="motivation"></a>
 This is my first major exercise for the Data Science Nanodegree Program in Udacity (Write a Blog Post). 
-I chose this topic because it is very relevant to someone like me who wants succeed in the Data Science field. Here the key questions I wanted to answer:
+I chose this topic because it is very relevant to someone like me who wants succeed in the Data Science field. 
+Here are the key questions I wanted to answer:
 1) Are there major differences in salary among the different data science roles?
 2) What are the essential technical skills to do well in data science?
 3) Does educational background play a huge part?
